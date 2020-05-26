@@ -1,0 +1,14 @@
+{
+  "description": "Mouse battery indicator.",
+  "name": "Mouse battery",
+  "shell-version": [
+    "3.28",
+    "3.30",
+    "3.32",
+    "3.34",
+    "3.36"
+  ],
+  "uuid": "mouse-battery@codilia.com",
+  "version": "1",
+  "url": "https://github.com/codilia/mouse-battery"
+}
